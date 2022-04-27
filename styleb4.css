@@ -1,0 +1,58 @@
+.laptrinh{
+    border:1px solid black;
+
+      padding:20px;
+      box-sizing: border-box;
+      margin-left:25%;
+      margin-right:25%;
+      box-shadow: 0.5px 0.5px 0.5px BLACK;
+      border-radius: 10px;
+      
+
+
+}
+.haiz{font-size:50px;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top:10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;}
+    .huhu{
+        padding-top:5px;
+        padding-bottom:0px;
+        margin-bottom: 0px;
+        margin-top:0px;
+
+
+    }
+p{ padding-top:0px;
+    padding-bottom:0px;
+    margin-bottom: 0px;
+    margin-top:0px;
+    font-size:25px;
+
+
+}
+.lummia{background-color: blueviolet;
+width:220px;
+height:50px;
+border-radius: 5px;
+text-align: center;
+color:white;
+font:bolder;
+font-size:20px;
+margin-top:30px;
+margin-left:10px;}
+.gachcuoi{
+    color:blueviolet;
+    margin-top:40px;
+    padding-top:20px;
+}
+.dongcuoicung{font-size:20px;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top:0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
